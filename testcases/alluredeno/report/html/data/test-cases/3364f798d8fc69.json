@@ -1,0 +1,102 @@
+{
+  "uid" : "3364f798d8fc69",
+  "name" : "test_case_3",
+  "fullName" : "test_all.TestAllureALL2#test_case_3",
+  "historyId" : "c2667a6a6f831ce4a1873b62cb0a2f1e",
+  "time" : {
+    "start" : 1612194303197,
+    "stop" : 1612194303197,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login_fixture",
+    "time" : {
+      "start" : 1612194303193,
+      "stop" : 1612194303193,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1",
+      "time" : {
+        "start" : 1612194303197,
+        "stop" : 1612194303197,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "查找模块"
+  }, {
+    "name" : "story",
+    "value" : "story three"
+  }, {
+    "name" : "epic",
+    "value" : "epic 相当于总体描述"
+  }, {
+    "name" : "suite",
+    "value" : "test_all"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAllureALL2"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3NDM0KQT"
+  }, {
+    "name" : "thread",
+    "value" : "3844-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3364f798d8fc69.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,79 @@
+{
+  "uid" : "7c59c4ea8088f253",
+  "name" : "test_login3[username is name3,pwd is pwd3]",
+  "fullName" : "test_parm.TestParametrize#test_login3",
+  "historyId" : "229808aebe29ca3437371402eca0124d",
+  "time" : {
+    "start" : 1612194303236,
+    "stop" : 1612194303236,
+    "duration" : 0
+  },
+  "description" : "\n        登录测试用例3\n        ",
+  "descriptionHtml" : "<pre><code>    登录测试用例3\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login",
+    "time" : {
+      "start" : 1612194303236,
+      "stop" : 1612194303236,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "parametrize 测试"
+  }, {
+    "name" : "story",
+    "value" : "登录功能"
+  }, {
+    "name" : "suite",
+    "value" : "test_parm"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestParametrize"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3NDM0KQT"
+  }, {
+    "name" : "thread",
+    "value" : "3844-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_parm"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "login",
+    "value" : "{'username': 'name3', 'pwd': 'pwd3'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c59c4ea8088f253.json",
+  "parameterValues" : [ "{'username': 'name3', 'pwd': 'pwd3'}" ]
+}

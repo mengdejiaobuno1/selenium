@@ -1,0 +1,111 @@
+{
+  "uid" : "dc72165e790ff46f",
+  "name" : "成功登录，测试数据是：('name2', 'pwd2')",
+  "fullName" : "test_title.TestTitle#test_success_login",
+  "historyId" : "36f2056778537f655f21d1e95829be80",
+  "time" : {
+    "start" : 1612194303254,
+    "stop" : 1612194303255,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "前置操作：登录",
+    "time" : {
+      "start" : 1612194303254,
+      "stop" : 1612194303254,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "58061da89000d12a",
+      "name" : "1ec91289-dcca-4a93-9492-b9f58beba78d-attachment.attach",
+      "source" : "58061da89000d12a.attach",
+      "type" : "text/plain",
+      "size" : 66
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8babcd60bc5a17c9",
+      "name" : "37a285fb-3fb2-4b50-b0b1-90d5349cb2e0-attachment.attach",
+      "source" : "8babcd60bc5a17c9.attach",
+      "type" : "text/plain",
+      "size" : 22
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "前置操作：登录::0",
+    "time" : {
+      "start" : 1612194303255,
+      "stop" : 1612194303255,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "title 测试"
+  }, {
+    "name" : "suite",
+    "value" : "test_title"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTitle"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3NDM0KQT"
+  }, {
+    "name" : "thread",
+    "value" : "3844-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_title"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "test_loginss",
+    "value" : "{'username': 'name2', 'pwd': 'pwd2'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc72165e790ff46f.json",
+  "parameterValues" : [ "{'username': 'name2', 'pwd': 'pwd2'}" ]
+}

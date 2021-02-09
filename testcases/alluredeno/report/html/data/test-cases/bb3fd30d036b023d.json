@@ -1,0 +1,153 @@
+{
+  "uid" : "bb3fd30d036b023d",
+  "name" : "测试用例标题二",
+  "fullName" : "test_allure01.TestEditPage#test_2",
+  "historyId" : "c9df84395230094246436731884b1e6b",
+  "time" : {
+    "start" : 1612194303202,
+    "stop" : 1612194303204,
+    "duration" : 2
+  },
+  "description" : "测试用例描述二",
+  "descriptionHtml" : "<p>测试用例描述二</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "测试用例描述二",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1",
+      "time" : {
+        "start" : 1612194303202,
+        "stop" : 1612194303202,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤2",
+      "time" : {
+        "start" : 1612194303202,
+        "stop" : 1612194303203,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "412016e9979ce990",
+        "name" : "公众号",
+        "source" : "412016e9979ce990.txt",
+        "type" : "text/plain",
+        "size" : 5
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "步骤3",
+      "time" : {
+        "start" : 1612194303203,
+        "stop" : 1612194303204,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bba7e2f14e4b2ac2",
+        "name" : "海瑞",
+        "source" : "bba7e2f14e4b2ac2.jpg",
+        "type" : "image/jpg",
+        "size" : 57694
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "步骤4",
+      "time" : {
+        "start" : 1612194303204,
+        "stop" : 1612194303204,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "82b6a2b5c3ccff7c",
+        "name" : "Attach with HTML type",
+        "source" : "82b6a2b5c3ccff7c.html",
+        "type" : "text/html",
+        "size" : 44
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "一级模块"
+  }, {
+    "name" : "story",
+    "value" : "二级模块二"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure01"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEditPage"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3NDM0KQT"
+  }, {
+    "name" : "thread",
+    "value" : "3844-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_allure01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb3fd30d036b023d.json",
+  "parameterValues" : [ ]
+}

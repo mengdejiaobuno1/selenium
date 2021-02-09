@@ -1,0 +1,131 @@
+{
+  "uid" : "208702538bdd5786",
+  "name" : "用例的标题",
+  "fullName" : "test_all.TestAllureALL#test_case_1",
+  "historyId" : "d485b8d201f6efdb30775b3007e65c52",
+  "time" : {
+    "start" : 1612194303194,
+    "stop" : 1612194303194,
+    "duration" : 0
+  },
+  "description" : "\n        小菠萝测试笔记地址：https://www.cnblogs.com/poloyy/\n        ",
+  "descriptionHtml" : "<pre><code>    小菠萝测试笔记地址：https://www.cnblogs.com/poloyy/\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login_fixture",
+    "time" : {
+      "start" : 1612194303193,
+      "stop" : 1612194303193,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        小菠萝测试笔记地址：https://www.cnblogs.com/poloyy/\n        ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1",
+      "time" : {
+        "start" : 1612194303194,
+        "stop" : 1612194303194,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤2",
+      "time" : {
+        "start" : 1612194303194,
+        "stop" : 1612194303194,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试模块"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "epic",
+    "value" : "epic 相当于总体描述"
+  }, {
+    "name" : "story",
+    "value" : "story one"
+  }, {
+    "name" : "suite",
+    "value" : "test_all"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAllureALL"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3NDM0KQT"
+  }, {
+    "name" : "thread",
+    "value" : "3844-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "Bug 链接,点我一下",
+    "url" : "https://www.cnblogs.com/poloyy/p/12219145.html",
+    "type" : "issue"
+  }, {
+    "name" : "测试用例,点我一下",
+    "url" : "https://www.cnblogs.com/poloyy/",
+    "type" : "test_case"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "208702538bdd5786.json",
+  "parameterValues" : [ ]
+}

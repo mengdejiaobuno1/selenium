@@ -1,0 +1,65 @@
+{
+  "uid" : "eca71884aa1f7f3f",
+  "name" : "多个参数7,8,9",
+  "fullName" : "test_title.TestTitle#test_test_test",
+  "historyId" : "5edacb1d21783f33bab7972a018cbb38",
+  "time" : {
+    "start" : 1612194303262,
+    "stop" : 1612194303262,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "title 测试"
+  }, {
+    "name" : "suite",
+    "value" : "test_title"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTitle"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3NDM0KQT"
+  }, {
+    "name" : "thread",
+    "value" : "3844-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_title"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "age",
+    "value" : "9"
+  }, {
+    "name" : "name",
+    "value" : "7"
+  }, {
+    "name" : "phone",
+    "value" : "8"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eca71884aa1f7f3f.json",
+  "parameterValues" : [ "9", "7", "8" ]
+}

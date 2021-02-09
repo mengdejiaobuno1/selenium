@@ -1,0 +1,147 @@
+{
+  "uid" : "ff92dbd36b5c7646",
+  "name" : "test_with_nested_steps",
+  "fullName" : "test_step.TestStep#test_with_nested_steps",
+  "historyId" : "205a131015eb8e4fac9b5ec2d56da14a",
+  "time" : {
+    "start" : 1612194303250,
+    "stop" : 1612194303250,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "第五步",
+      "time" : {
+        "start" : 1612194303250,
+        "stop" : 1612194303250,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "第一步",
+        "time" : {
+          "start" : 1612194303250,
+          "stop" : 1612194303250,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "第二步",
+        "time" : {
+          "start" : 1612194303250,
+          "stop" : 1612194303250,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "第三步",
+          "time" : {
+            "start" : 1612194303250,
+            "stop" : 1612194303250,
+            "duration" : 0
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "第四步<testcases.alluredeno.test_step.TestStep object at 0x000001690CC4BFA0>，'abc'",
+            "time" : {
+              "start" : 1612194303250,
+              "stop" : 1612194303250,
+              "duration" : 0
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ ],
+            "parameters" : [ {
+              "name" : "arg1",
+              "value" : "1"
+            }, {
+              "name" : "arg2",
+              "value" : "'abc'"
+            } ],
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "stepsCount" : 0,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "stepsCount" : 1,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 2,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 4,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 5,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "step 测试"
+  }, {
+    "name" : "suite",
+    "value" : "test_step"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestStep"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3NDM0KQT"
+  }, {
+    "name" : "thread",
+    "value" : "3844-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_step"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff92dbd36b5c7646.json",
+  "parameterValues" : [ ]
+}

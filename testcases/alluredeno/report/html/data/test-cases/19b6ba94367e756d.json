@@ -1,0 +1,55 @@
+{
+  "uid" : "19b6ba94367e756d",
+  "name" : "test_case_5",
+  "fullName" : "test_severity#test_case_5",
+  "historyId" : "0b687724c27260046a7fdb6f5aec8eb6",
+  "time" : {
+    "start" : 1612194303249,
+    "stop" : 1612194303249,
+    "duration" : 0
+  },
+  "description" : " 没标记 severity 的用例默认为 normal",
+  "descriptionHtml" : "<p>没标记 severity 的用例默认为 normal</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "severity 测试"
+  }, {
+    "name" : "suite",
+    "value" : "test_severity"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3NDM0KQT"
+  }, {
+    "name" : "thread",
+    "value" : "3844-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_severity"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19b6ba94367e756d.json",
+  "parameterValues" : [ ]
+}

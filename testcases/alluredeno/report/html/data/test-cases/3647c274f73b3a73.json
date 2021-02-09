@@ -1,0 +1,61 @@
+{
+  "uid" : "3647c274f73b3a73",
+  "name" : "test_inside_the_normal_severity_test_class",
+  "fullName" : "test_severity.TestClassWithNormalSeverity#test_inside_the_normal_severity_test_class",
+  "historyId" : "02eb7f50a57dd45a9cc488080f99348f",
+  "time" : {
+    "start" : 1612194303241,
+    "stop" : 1612194303241,
+    "duration" : 0
+  },
+  "description" : " 测试类优先级 normal；看看测试用例是否会自动继承优先级 ",
+  "descriptionHtml" : "<p>测试类优先级 normal；看看测试用例是否会自动继承优先级</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "severity 测试"
+  }, {
+    "name" : "suite",
+    "value" : "test_severity"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClassWithNormalSeverity"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3NDM0KQT"
+  }, {
+    "name" : "thread",
+    "value" : "3844-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_severity"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3647c274f73b3a73.json",
+  "parameterValues" : [ ]
+}

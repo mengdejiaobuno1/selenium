@@ -1,0 +1,60 @@
+{
+  "uid" : "cc9d16eb0dd416ae",
+  "name" : "test_with_named_link",
+  "fullName" : "test_link.TestLink#test_with_named_link",
+  "historyId" : "9fdf1f5d6479eaee5eb7888d34bae230",
+  "time" : {
+    "start" : 1612194303217,
+    "stop" : 1612194303217,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "link 测试"
+  }, {
+    "name" : "suite",
+    "value" : "test_link"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLink"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3NDM0KQT"
+  }, {
+    "name" : "thread",
+    "value" : "3844-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_link"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "点击我看一看youtube吧",
+    "url" : "https://www.youtube.com/watch?v=Su5p2TqZxKU",
+    "type" : "link"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc9d16eb0dd416ae.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,72 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","1","","test_parm","TestParametrize","","","test_login1[login0]","
+        登录测试用例1
+        "
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_link","TestLink","","","test_with_testcase_link",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_severity","","","","test_case_2"," critical 级别测试用例 "
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_all","TestAllureALL2","","","test_case_4",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_parm","TestParametrize","","","登录测试用例2","
+        登录测试用例2
+        "
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_title","TestTitle","","","多个参数7,8,9",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_link","TestLink","","","test_with_named_link",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_description","TestDescription","","","test_unicode_in_docstring_description","
+        当然，在方法声明的下一行这样子写，也算一种添加description的方式哦
+        "
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_title","TestTitle","","","成功登录，测试数据是：('name1', 'pwd1')",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_epic","TestEpic","","","test_without_any_annotations_that_wont_be_executed",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_description","TestDescription","","","test_description_from_decorator","
+    这是一个@allure.description装饰器
+    没有特别的用处
+    "
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_severity","TestClassWithNormalSeverity","","","test_inside_the_normal_severity_test_class_with_overriding_critical_severity","
+        测试类优先级 normal
+        测试用例优先级 critical
+        "
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_severity","","","","test_case_3"," blocker 级别测试用例 "
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_allure01","TestEditPage","","","测试用例标题一","测试用例描述一"
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_all","TestAllureALL","","","test_case_2",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_all","TestAllureALL2","","","test_case_3",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","1","","test_title","TestTitle","","","多个参数4,5,6",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_epic","TestEpic","","","test_with_story_1",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","2","","test_allure01","TestEditPage","","","测试用例标题二","测试用例描述二"
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_parm","TestParametrize","","","test_login1[login1]","
+        登录测试用例1
+        "
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_severity","","","","test_with_normal_severity",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_severity","","","","test_case_5"," 没标记 severity 的用例默认为 normal"
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_step","TestStep","","","test_with_nested_steps",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_severity","","","","test_with_trivial_severity",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_severity","","","","test_case_1"," normal 级别测试用例 "
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_epic","TestEpic","","","test_with_story_2",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","1","","test_title","TestTitle","","","成功登录，测试数据是：('name2', 'pwd2')",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_description","TestDescription","","","test_html_description",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_severity","","","","test_with_no_severity_label",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_parm","TestParametrize","","","test_login3[username is name2,pwd is pwd2]","
+        登录测试用例3
+        "
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","1","","test_parm","TestParametrize","","","test_login3[username is name1,pwd is pwd1]","
+        登录测试用例3
+        "
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_parm","TestParametrize","","","test_login1[login2]","
+        登录测试用例1
+        "
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_link","TestLink","","","test_with_issue_link",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_parm","TestParametrize","","","登录测试用例2","
+        登录测试用例2
+        "
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_severity","","","","test_case_4"," minor 级别测试用例 "
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_epic","TestEpic","","","test_with_story_2_and_feature_2",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_title","TestTitle","","","多个参数1,2,3",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_all","TestAllureALL","","","用例的标题","
+        小菠萝测试笔记地址：https://www.cnblogs.com/poloyy/
+        "
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_parm","TestParametrize","","","test_login3[username is name3,pwd is pwd3]","
+        登录测试用例3
+        "
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_parm","TestParametrize","","","登录测试用例2","
+        登录测试用例2
+        "
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_severity","TestClassWithNormalSeverity","","","test_inside_the_normal_severity_test_class"," 测试类优先级 normal；看看测试用例是否会自动继承优先级 "
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_epic","TestEpic","","","test_with_epic_1",""
+"passed","Mon Feb 01 23:45:03 CST 2021","Mon Feb 01 23:45:03 CST 2021","0","","test_link","TestLink","","","test_with_link",""

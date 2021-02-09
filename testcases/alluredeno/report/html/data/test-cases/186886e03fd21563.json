@@ -1,0 +1,60 @@
+{
+  "uid" : "186886e03fd21563",
+  "name" : "test_with_issue_link",
+  "fullName" : "test_link.TestLink#test_with_issue_link",
+  "historyId" : "50e2074a15c9eaced1760e77727f0f0e",
+  "time" : {
+    "start" : 1612194303218,
+    "stop" : 1612194303218,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "link 测试"
+  }, {
+    "name" : "suite",
+    "value" : "test_link"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLink"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3NDM0KQT"
+  }, {
+    "name" : "thread",
+    "value" : "3844-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_link"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "bug issue链接",
+    "url" : "140",
+    "type" : "issue"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "186886e03fd21563.json",
+  "parameterValues" : [ ]
+}
